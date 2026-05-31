@@ -1,5 +1,3 @@
-# Sales-Performance-Analytics-PowerBI
-nteractive Power BI dashboard for sales performance analysis, profitability tracking, customer segmentation, regional insights, and budget attainment using Business Intelligence and data visualization techniques.
 # Sales Performance Analytics Dashboard | Power BI
 
 This project presents an interactive Business Intelligence dashboard developed in Power BI to analyze sales performance, profitability, customer behavior, regional trends, and budget achievement.
